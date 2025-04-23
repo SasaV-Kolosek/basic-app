@@ -13,6 +13,10 @@ Things you may want to cover:
 
 * Database creation
 
+
+
+
+
 * Database initialization
 
 * How to run the test suite
@@ -21,5 +25,6 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+* 
 
 * ....
