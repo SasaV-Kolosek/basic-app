@@ -14,7 +14,6 @@ RSpec.describe 'Item' do
   it 'test something' do
     expect(item).to be_valid
   end
-  
 
   it 'test something' do
     expect(item).to be_valid
