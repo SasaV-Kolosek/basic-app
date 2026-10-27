@@ -26,3 +26,5 @@ Things you may want to cover:
 
 * ....
 * 
+
+This project is the basic-app sample application.
