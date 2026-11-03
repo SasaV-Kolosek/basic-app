@@ -26,3 +26,5 @@ Things you may want to cover:
 
 * ....
 * 
+
+See the "How to run the test suite" section above to run the specs locally.
