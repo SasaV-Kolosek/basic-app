@@ -2,6 +2,8 @@
 
 This is a Ruby on Rails application.
 
+New to the project? Start by running `bin/setup` to install dependencies and prepare the database.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
