@@ -2,6 +2,8 @@
 
 This is a Ruby on Rails application.
 
+It provides a basic CRUD interface for managing items.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
