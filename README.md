@@ -26,3 +26,5 @@ Things you may want to cover:
 
 * ....
 * 
+
+This basic-app project is a sample Rails application for managing items.
