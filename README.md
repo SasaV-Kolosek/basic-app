@@ -5,6 +5,7 @@ This is a Ruby on Rails application.
 The API endpoint has been migrated (story #432).
 
 The settings panel has been removed (story #779).
+Story #93172 ("1") has been implemented.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
